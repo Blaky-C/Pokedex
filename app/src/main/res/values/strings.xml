@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pokedex2</string>
+    <string name="app_main_label">Pokédex</string>
+    <string name="card1_label">PokéCard1</string>
+    <string name="card2_label">PokéCard2</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="type_label">Type:</string>
+    <string name="title_home">Pokédex v2.0</string>
+
+    <!--ActionBarDrawerToggle-->
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!--ListView in Drawer-->
+    <string-array name="drawer_titles">
+        <item>Home</item>
+        <item>Card v1</item>
+        <item>Card v2</item>
+        <item>Ability</item>
+        <item>Item</item>
+        <item>Odometer</item>
+    </string-array>
+
+</resources>
